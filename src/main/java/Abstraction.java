@@ -5,6 +5,8 @@
 * No need to get bogged down in the details
 * abstract class is almost like a template class where some functionality is not implemented yet
 * Other classes extend the abstract class and implement the appropriate functionality
+* An interface is a set of method signatures for to-be-implemented functionality
+*
  */
 public class Abstraction {
 }
